@@ -1,6 +1,7 @@
 # READ ME
 
-Scala-Playframeworkの学習をするためのハンズオン資料です
+Scala-Playframeworkの学習をするためのハンズオン資料です。  
+これは最初期に作成したdocker-slick入りのハンズオン資料のスナップショットです。  
 
 ## requirements
 
